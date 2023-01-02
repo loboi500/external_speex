@@ -1,8 +1,3 @@
-## Process this file with automake to produce Makefile.in. -*-Makefile-*-
-
-# Disable automatic dependency tracking if using other tools than gcc and gmake
-#AUTOMAKE_OPTIONS = no-dependencies
-
-SUBDIRS = libspeexdsp tests
-
-EXTRA_DIST = libspeexdsp.sln
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4d7ef2b2ca0a9023a692cd456274bf997683d2d1c5611bd32f8beb3aacd3603
+size 258

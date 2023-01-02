@@ -1,6 +1,3 @@
-## Process this file with automake to produce Makefile.in. -*-Makefile-*-
-
-# Disable automatic dependency tracking if using other tools than gcc and gmake
-#AUTOMAKE_OPTIONS = no-dependencies
-
-EXTRA_DIST = speex_C64_test.cmd  speex_C64_test.pjt
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0b1fce0062d2195442255f4935401c86aaa9c5193e5ce3eb10fcc5dd540200d
+size 244

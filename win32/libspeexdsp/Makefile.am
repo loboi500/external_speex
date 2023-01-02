@@ -1,6 +1,3 @@
-## Process this file with automake to produce Makefile.in. -*-Makefile-*-
-
-# Disable automatic dependency tracking if using other tools than gcc and gmake
-#AUTOMAKE_OPTIONS = no-dependencies
-
-EXTRA_DIST = libspeexdsp.dsw libspeexdsp.dsp libspeexdsp_dynamic.dsp
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c620fd76220ed0ca1dbef98c86c40cff0a7a09a901c7d75c2176243f17a3cbe
+size 261

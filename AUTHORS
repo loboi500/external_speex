@@ -1,18 +1,3 @@
-Jean-Marc Valin <jean-marc.valin@usherbrooke.ca>
-   All the code except the following
-
-David Rowe <david@rowetel.com>
-   lsp.c lsp.h 
-   Also ideas and feedback
-
-John Francis Edwards
-   wave_out.[ch], some #ifdefs for windows port and MSVC project files
-
-Segher Boessenkool
-   Misc. optimizations (for QMF in particular)
-
-Atsuhiko Yamanaka <ymnk@jcraft.com>:
-   Patch to speexenc.c to add Vorbis comment format
-
-Radim Kolar <hsn@cybermail.net>:
-   Patch to speexenc.c for supporting more input formats
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e5a9d92c5f9ccd28fe0b15ad59443fbf435bfc6ab2221f532006d3717ddf642
+size 502

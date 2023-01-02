@@ -1,8 +1,3 @@
-## Process this file with automake to produce Makefile.in. -*-Makefile-*-
-
-# Disable automatic dependency tracking if using other tools than gcc and gmake
-#AUTOMAKE_OPTIONS = no-dependencies
-
-SUBDIRS = libspeexdsp VS2003 VS2005 VS2008
-
-EXTRA_DIST = speex.iss config.h libspeexdsp.def
+version https://git-lfs.github.com/spec/v1
+oid sha256:51612925c8436d32118903b4363a6981015ca1cb56f1fde1412200918917f9c6
+size 292

@@ -1,9 +1,3 @@
-## Process this file with automake to produce Makefile.in. -*-Makefile-*-
-
-# Disable automatic dependency tracking if using other tools than gcc and gmake
-#AUTOMAKE_OPTIONS = no-dependencies
-
-SUBDIRS = speex_C54_test speex_C55_test speex_C64_test
-
-EXTRA_DIST = config.h os_support_custom.h
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a5511bbf54030e08ff2bc674124b545ff67c4d98cb58c02031c94bb43249cfe
+size 291

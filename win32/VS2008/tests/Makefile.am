@@ -1,8 +1,3 @@
-## Process this file with automake to produce Makefile.in. -*-Makefile-*-
-
-# Disable automatic dependency tracking if using other tools than gcc and gmake
-#AUTOMAKE_OPTIONS = no-dependencies
-
-EXTRA_DIST = testdenoise.vcproj testecho.vcproj testresample.vcproj
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0584a51b25b4bec2c7349df99fc4901303227d7434fdf53e32811d02f433433a
+size 270

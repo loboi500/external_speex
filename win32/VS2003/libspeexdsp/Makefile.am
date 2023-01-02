@@ -1,8 +1,3 @@
-## Process this file with automake to produce Makefile.in. -*-Makefile-*-
-
-# Disable automatic dependency tracking if using other tools than gcc and gmake
-#AUTOMAKE_OPTIONS = no-dependencies
-
-EXTRA_DIST = libspeexdsp.vcproj
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:494af5490b5e7f1e2ff04d1b4916e0dfd32c7735e82b0dec8596318864aa0982
+size 234
